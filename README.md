@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natthaporn Meechai
-- 👀 I’m interested in Bid Data, Data Analytics
+- 👀 I’m interested in Big Data, Data Analytics, and Data Engineer
 - 🌱 I’m currently learning about Big Data Platform and hands-on with the cloud technologies
 
 - 📫 How to reach me natthaporn.mc@gmail.com
