@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Natthaporn Meechai
-- 👀 I’m interested in Programming, Technologies, and Data Structures
+- 👀 I’m interested in Programming, Technologies, and Data 
 - 🌱 I’m currently learning about Big Data Platform and hands-on with the cloud technologies
 
 - 📫 How to reach me natthaporn.mc@gmail.com
